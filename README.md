@@ -3,12 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khauee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khauee&theme=dracula" height="160" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/7o1x/7o1x/main/assets/coding.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ###
 
